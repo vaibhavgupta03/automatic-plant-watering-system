@@ -108,7 +108,7 @@ You can find the Arduino code for this project in the `project-code.ino` file.
 ## Getting Started
 1. **Clone the Repository**:
 2. **Upload the Code**:
-- Upload the `auto_plant_watering.ino` file to your ESP8266/ESP32 using the Arduino IDE.
+- Upload the `project-code.ino` file to your ESP8266/ESP32 using the Arduino IDE.
 - Ensure the necessary libraries (`WiFi`, `ThingSpeak`, etc.) are installed.
 
 3. **Circuit Setup**:
