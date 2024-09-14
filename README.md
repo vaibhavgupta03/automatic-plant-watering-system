@@ -1,5 +1,3 @@
-# automatic-plant-watering-system
-## Automatic Plant Watering System Using IoT, WiFi, Arduino (ESP8266), Moisture Sensor, DC Motor, and Relay
 
 # Automatic Plant Watering System using IoT and WiFi
 
